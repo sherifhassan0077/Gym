@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "worksynk",
     "short_name": "worksynk",
+=======
+    "name": "gym",
+    "short_name": "gym",
+>>>>>>> ea6f1cc7d2c58c221e397e61ad8016367101437e
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

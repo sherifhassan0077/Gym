@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: worksynk
+=======
+name: gym
+>>>>>>> ea6f1cc7d2c58c221e397e61ad8016367101437e
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -30,18 +34,37 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+<<<<<<< HEAD
   page_transition: ^2.0.9
 
 
+=======
+    
+>>>>>>> ea6f1cc7d2c58c221e397e61ad8016367101437e
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.6
+<<<<<<< HEAD
+=======
+  video_player: ^2.9.1
+  flick_video_player: ^0.9.0
+  carousel_slider: ^5.0.0
+  url_launcher: ^6.3.0
+  table_calendar: ^3.1.2
+  path: ^1.8.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+>>>>>>> ea6f1cc7d2c58c221e397e61ad8016367101437e
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> ea6f1cc7d2c58c221e397e61ad8016367101437e
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
   # activated in the `analysis_options.yaml` file located at the root of your
@@ -62,8 +85,136 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
+<<<<<<< HEAD
      - "F:/Sherif/Flutter/Work Synk/worksynk/lib/Images/worksynkblue.png"
      - "F:/Sherif/Flutter/Work Synk/worksynk/lib/Images/worksynk.png"
+=======
+   - lib/image/chest.jpg
+   - lib/image/welcom_page.jpg
+   - lib/image/dumbell.png
+   - lib/image/icons8-facebook-48.png
+   - lib/image/icons8-google-48.png
+   - lib/image/WhatsApp Image 2024-09-21 at 14.09.08_95fe4756.jpg
+   - lib/image/back.jpg
+   - lib/image/shoulder.jpg
+   - lib/image/bicesps.jpg
+   - lib/image/tricesps.jpg
+   - lib/image/legs.jpg
+   - lib/image/chest/Barbell-Bench-Press.gif
+   - lib/image/chest/b0f5ca0d6597f13fdccebe99f118907a.gif
+   - lib/image/chest/butter fly.gif
+   - lib/image/chest/cable-standing-chest-press.gif
+   - lib/image/chest/cable-standing-crossover.gif
+   - lib/image/chest/chest press.gif
+   - lib/image/chest/How to Perform Barbell Incline Bench Press.gif
+   - lib/image/chest/svend press.gif
+   - lib/image/chest/تفتيح عالي.gif
+   - lib/image/chest/تفتيح.gif
+   - lib/image/chest/ضغط بنش .gif
+   - lib/image/chest/ضغط.gif
+   - lib/image/chest/متوازي.gif
+   - lib/image/chest/FlatBarbell_slide.gif
+   - lib/image/icons8-youtube-48.png
+   - lib/image/background.jpg
+   - lib/image/chest/Butterfly_slide.gif
+   - lib/image/chest/cable_press_slide.gif
+   - lib/image/chest/pronated-grip-cable-fly.gif
+   - lib/image/chest/machine-chest-press.gif
+   - lib/image/chest/svend-press-barbend-movement-gif-masters.gif
+   - lib/image/chest/Dumbbell-Incline-Press.gif
+   - lib/image/chest/Dumbbell+Chest+Press+Exercise.gif
+   - lib/image/chest/dips.gif
+   - lib/image/chest/full-push-up.gif
+   - lib/image/chest/Dumbbell-Chest-Fly.webp
+   - lib/image/chest/flat_incline_dumblle.gif
+   - lib/image/chest/parallel-bar-dips.gif
+   - lib/back_T/Chest Supported Row.gif
+   - lib/back_T/chin-ups.gif
+   - lib/back_T/Dumbbell Row.gif
+   - lib/back_T/Face Pulls.gif
+   - lib/back_T/how-to-deadlift.gif
+   - lib/back_T/Hyperextensions .webp
+   - lib/back_T/image-11.gif
+   - lib/back_T/Inverted Rows.jpeg
+   - lib/back_T/pulldown-min.gif
+   - lib/back_T/Seated Cable Rows.gif
+   - lib/back_T/T-bar Row.jpeg
+   - lib/back_T/t-bar-row-muscles.gif
+   - lib/back_T/barbell-deadlift-movement.webp
+   - lib/back_T/Barbell Row.gif
+   - lib/image/shoulder_T/Cable Lateral Raises.gif
+   - lib/image/shoulder_T/Cable Rear Delt Fly.gif
+   - lib/image/shoulder_T/Dumbbell Rear Delt Row.gif
+   - lib/image/shoulder_T/Dumbbell Upright Row.gif
+   - lib/image/shoulder_T/Dumbbell_Lateral_Raises_muscle_worked.webp
+   - lib/image/shoulder_T/Dumbbell-Shoulder-Press.gif
+   - lib/image/shoulder_T/Face Pulls.gif
+   - lib/image/shoulder_T/Half-Arnold-Press.gif
+   - lib/image/shoulder_T/Lateral Raises.gif
+   - lib/image/shoulder_T/Machine Lateral Raise.gif
+   - lib/image/shoulder_T/Military Press.gif
+   - lib/image/shoulder_T/Overhead Press Machine.gif
+   - lib/image/shoulder_T/Push Press.gif
+   - lib/image/shoulder_T/Reverse Pec Deck.gif
+   - lib/image/shoulder_T/Seated Dumbbell Press.gif
+   - lib/image/shoulder_T/Smith Machine Shoulder Press.gif
+   - lib/image/shoulder_T/Barbell_Shoulder.gif
+   - lib/image/shoulder_T/Bent_Over.gif
+   - lib/image/shoulder_T/Barbell_Shoulder.gif
+   - lib/image/shoulder_T/Landmine_Press.gif
+   - lib/bicesps_T/bicesps_images/Barbell_Curl.gif
+   - lib/bicesps_T/bicesps_images/Cable_Curl.gif
+   - lib/bicesps_T/bicesps_images/Concentration-Curl.gif
+   - lib/bicesps_T/bicesps_images/CrossBody_Hammer.gif
+   - lib/bicesps_T/bicesps_images/Dumbbell_Curl.gif
+   - lib/bicesps_T/bicesps_images/EZ_Bar_Curl.gif
+   - lib/bicesps_T/bicesps_images/Hammer-Curl.gif
+   - lib/bicesps_T/bicesps_images/Incline_Dumbbell.gif
+   - lib/bicesps_T/bicesps_images/OneArm_Dumbbell.gif
+   - lib/bicesps_T/bicesps_images/Preacher_Curl.gif
+   - lib/bicesps_T/bicesps_images/Reverse_Barbell.gif
+   - lib/bicesps_T/bicesps_images/Spider_Curl.gif
+   - lib/bicesps_T/bicesps_images/Zottman_Curl.gif
+   - lib/tricesps_T/tricesps_images/Bench Dips.gif
+   - lib/tricesps_T/tricesps_images/Bodyweight Triceps Extension.gif
+   - lib/tricesps_T/tricesps_images/Close_Grip_Bench_Press.gif
+   - lib/tricesps_T/tricesps_images/Diamond Push-Ups.gif
+   - lib/tricesps_T/tricesps_images/Dumbbell-Kickback.gif
+   - lib/tricesps_T/tricesps_images/One-Arm Overhead Dumbbell Extension.gif
+   - lib/tricesps_T/tricesps_images/Overhead Triceps Extension.gif
+   - lib/tricesps_T/tricesps_images/Reverse Grip Triceps Pushdown (Cable).gif
+   - lib/tricesps_T/tricesps_images/Rope Triceps Pushdown (Cable).jpeg
+   - lib/tricesps_T/tricesps_images/Seated Triceps Press.jpeg
+   - lib/tricesps_T/tricesps_images/Single-Arm Triceps Extension (Cable).gif
+   - lib/tricesps_T/tricesps_images/Skull Crushers (Lying Triceps Extension).gif
+   - lib/tricesps_T/tricesps_images/Triceps Machine Dips.gif
+   - lib/tricesps_T/tricesps_images/Triceps Pushdown (Cable).gif
+   - lib/tricesps_T/tricesps_images/Triceps_Dips.gif
+   - lib/legs_T/legs_images/Squats.gif
+   - lib/legs_T/legs_images/Lunges.gif
+   - lib/legs_T/legs_images/Leg_Press.gif
+   - lib/legs_T/legs_images/Deadlift.gif
+   - lib/legs_T/legs_images/Calf_Raises.gif
+   - lib/legs_T/legs_images/Leg_Extension.gif
+   - lib/legs_T/legs_images/Leg_Curl.gif
+   - lib/legs_T/legs_images/Bulgarian_Split.gif
+   - lib/legs_T/legs_images/Step_ups.jpeg
+   - lib/legs_T/legs_images/Glute_Bridge.gif
+   - lib/legs_T/legs_images/Hack_Squat.gif
+   - lib/legs_T/legs_images/Sumo_Deadlift.gif
+   - lib/legs_T/legs_images/Romanian_Deadlift.webp
+   - lib/legs_T/legs_images/Pistol_Squat.jpeg
+   - lib/image/core-muscles.jpeg
+   - lib/image/Core_muscles.jpeg
+   - lib/core_muscles/images/Weighted-Crunch.gif
+   - lib/core_muscles/images/plank.gif
+   - lib/core_muscles/images/Side_Plank.webp
+   - lib/core_muscles/images/Glute_Bridge.jpg
+   - lib/core_muscles/images/Swiss Ball Rollouts.gif
+   - lib/core_muscles/images/Bicycle_Crunches.gif
+   - lib/core_muscles/images/Russian_Twists.gif
+   - lib/core_muscles/images/Bear_Crawl.gif
+>>>>>>> ea6f1cc7d2c58c221e397e61ad8016367101437e
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

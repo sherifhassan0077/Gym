@@ -1,3 +1,7 @@
 {
+<<<<<<< HEAD
     "cmake.sourceDirectory": "F:/Sherif/Flutter/Work Synk/worksynk/windows"
+=======
+    "dotnet.defaultSolution": "build/windows/x64/gym.sln"
+>>>>>>> ea6f1cc7d2c58c221e397e61ad8016367101437e
 }
